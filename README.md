@@ -33,5 +33,3 @@ Contributions are always welcome to make this project even more kawaii~! Whether
 This project is under the uwu license, meaning you're free to use it for all your kawaii needs~! Just remember to keep spreading the kawaii vibes~! (ﾉ´ヮ´)ﾉ*:･ﾟ✧
 
 ---
-
-Hope this brings some kawaii vibes to your GitHub repository! Let me know if you need further adjustments~!
